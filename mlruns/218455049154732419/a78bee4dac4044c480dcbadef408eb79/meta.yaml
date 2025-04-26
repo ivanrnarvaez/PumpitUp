@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/innocentsaints/Library/CloudStorage/GoogleDrive-ivanrnarvaez%40gmail.com/My%20Drive/000A.Data%20Science/11.%20Machine%20learning%20III/Tarea/mlruns/218455049154732419/a78bee4dac4044c480dcbadef408eb79/artifacts
+end_time: 1745700554353
+entry_point_name: ''
+experiment_id: '218455049154732419'
+lifecycle_stage: active
+run_id: a78bee4dac4044c480dcbadef408eb79
+run_name: untunned_random_forrest
+run_uuid: a78bee4dac4044c480dcbadef408eb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745700550741
+status: 3
+tags: []
+user_id: innocentsaints
