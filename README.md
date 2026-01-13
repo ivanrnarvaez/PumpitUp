@@ -89,10 +89,11 @@ Evaluation metric used by the competition:
 
 Additional diagnostics:
 - Confusion matrix
+```bash
 [[7268  121  541]
  [ 585  283  144]
  [1284   70 4274]]
-  
+```
 - Use of ROC AUC curve to evaluate results
   - Precision, recall, and F1-score per class
 
@@ -174,7 +175,6 @@ Best-performing model: RandomForestClassifier with the parameters:
   - Precision: 0.8073229631184476
   - Recall: 0.8115991763898421
   - F1 Score: 0.8018897597351886
-Best-performing model: {Model Name}
 
 
 ### Key drivers of pump functionality:
@@ -210,4 +210,5 @@ Best-performing model: {Model Name}
 
 Ivan R. Narvaez
 > Software Engineer-AI | Data Scientist | Analytics & Digital Transformation
+
 
