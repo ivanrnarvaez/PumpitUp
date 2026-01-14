@@ -154,14 +154,14 @@ Execute cells in PumpitUP notebook.
 ### 3️⃣ Generate submission
 
 The final notebook produces a submission.csv file in the required competition format:
-
+```bash
 id,status_group
 50785,non functional
 51630,functional
 17168,functional
 45559,non functional
 49871,functional
-
+```
 ---
 
 ## 📈 Results
@@ -210,5 +210,6 @@ Best-performing model: RandomForestClassifier with the parameters:
 
 Ivan R. Narvaez
 > Software Engineer-AI | Data Scientist | Analytics & Digital Transformation
+
 
 
